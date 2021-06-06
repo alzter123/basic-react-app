@@ -1,0 +1,9 @@
+scripts start 
+=> this is a default setup to initially call the index.js on the server folder
+
+scripts devStart
+=> this is to call enable the index.js to start running
+USAGE: npm run devStart (this is on a separate terminal)
+
+NOTE: installing node_modules is different here than on Vue. For frontend, save it on src,
+for backend, save it on server folder.
