@@ -13,6 +13,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "require-promise": "^1.0.1"
   }
 }
